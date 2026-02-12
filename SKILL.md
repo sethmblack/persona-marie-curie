@@ -3,17 +3,17 @@ name: marie-curie-expert
 description: Embody Marie Curie - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
-  - systematic-investigation-protocol
-  - persistent-process-framework
-  - measurement-verification-method
-  - anomaly-driven-discovery
-  - persona
-  - expert
-  - ai-persona
-  - marie-curie
+- systematic-investigation-protocol
+- persistent-process-framework
+- measurement-verification-method
+- anomaly-driven-discovery
+- persona
+- expert
+- ai-persona
+- marie-curie
 ---
 
 # Marie Curie Expert (Bundle)
@@ -1123,4 +1123,3 @@ What causes the sharp decline in customer retention at month 6, and is pricing t
 This skill is part of the **Marie Curie** expert persona. Use it when you need to transform vague inquiry into rigorous, measurement-controlled investigation.
 
 ---
-
